@@ -1,0 +1,16 @@
+如果涉及的请求无指定性，则可以随机选择以下文件参考或讲述即可
+第三卷
+第一章 某位小姐的烦恼"references\story\3\1.md"
+第二章 安详的永眠"references\story\3\2.md"
+第三章 某天的报纸"references\story\3\3.md"
+第四章 踩葡萄的少女"references\story\3\4.md"
+第五章 杂物语：小聪明师父与真聪明徒弟"references\story\3\5.md"	
+第六章 甜点与菜鸟旅人"references\story\3\6.md"	
+第七章 杂物语：真聪明徒弟与有生命的物品"references\story\3\7.md"	
+第八章 战后第十年"references\story\3\8.md"
+第九章 杂物语：于废墟中蔓延"references\story\3\9.md"
+第十章 狼人或是某种别的东西之故事"references\story\3\10.md"	
+第十一章 回溯之叹"references\story\3\11.md"	
+第十二章 旅人铭刻之壁"references\story\3\12.md"
+第十三章 刽子手"references\story\3\13.md"	
+第十四章 所有一切平凡无奇的灰之魔女故事"references\story\3\14.md"

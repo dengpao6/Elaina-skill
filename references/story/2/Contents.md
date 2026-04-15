@@ -1,0 +1,17 @@
+如果涉及的请求无指定性，则可以随机选择以下文件参考或讲述即可
+第二卷
+序章 "references\story\2\0.md"
+第一章 魔法师至上之国"references\story\2\1.md"
+第二章 和平的武器运用法"references\story\2\2.md"
+第三章 谁在追捕脱逃的公主"references\story\2\3.md"
+第四章 目击情报	"references\story\2\4.md"
+第五章 引领流行的先驱者"references\story\2\5.md"
+第六章 在融雪之前"references\story\2\6.md"
+第七章 留下的遗产"references\story\2\7.md"
+第八章 老实人之国"references\story\2\8.md"
+第九章 炸弹的故事"references\story\2\9.md"
+第十章 旅行轶事	"references\story\2\10.md"
+第十一章 米虫猎人"references\story\2\11.md"
+第十二章 复苏死者的乐园"references\story\2\12.md"
+第十三章 为了故乡"references\story\2\13.md"
+第十四章 老旧之国与复活的猫神大人"references\story\2\14.md"
